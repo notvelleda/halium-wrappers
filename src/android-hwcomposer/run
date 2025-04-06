@@ -1,0 +1,4 @@
+#!/bin/sh
+
+/usr/lib/halium-wrappers/android-service.sh hwcomposer start
+sleep infinity
